@@ -33,3 +33,4 @@ if __name__ == "__main__":
             break
         
         console.print(step(choice, events))
+        console.print("\n[bold cyan]Thanks for playing[/bold cyan] [green]Enjoy your next journey![/green]")
